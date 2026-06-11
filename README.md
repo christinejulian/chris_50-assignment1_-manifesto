@@ -1,2 +1,2 @@
-# chris_50-assignment1_-manifesto
-Assignment 1
+# christine_manifesto
+This is my first manifesto with interesting features.
